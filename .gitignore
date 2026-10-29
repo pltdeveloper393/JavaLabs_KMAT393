@@ -1,0 +1,18 @@
+# Скомпилированные файлы
+*.class
+*.jar
+out/
+target/
+
+# Файлы IDE
+.idea/
+*.iml
+.vscode/
+
+# Файлы операционной системы
+.DS_Store
+Thumbs.db
+~$*
+
+# Логи
+*.log
